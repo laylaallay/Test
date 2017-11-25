@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE annuaire SYSTEM "annuaire.dtd">
+<?xml-stylesheet type="text/xsl" href="nav.xsl"?>
+
+<annuaire>
+    <personne>
+        <nom>allay</nom>
+        
+        <prenom>layla</prenom>
+        <telephone>06555552</telephone>
+        
+    </personne>
+
+ 
+    
+</annuaire>
